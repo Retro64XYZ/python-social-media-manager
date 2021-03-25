@@ -3,7 +3,7 @@ chardet==3.0.4
 idna==2.5
 jsonpickle==0.9.4
 oauthlib==2.0.2
-PyYAML==5.1
+PyYAML==5.4
 requests==2.20.0
 requests-oauthlib==0.8.0
 six==1.10.0
